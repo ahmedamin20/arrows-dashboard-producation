@@ -1,0 +1,48 @@
+[
+    {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$"
+    },
+    {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    {
+      "name": "British Pound",
+      "code": "GBP",
+      "symbol": "£"
+    },
+    {
+      "name": "Saudi Riyal",
+      "code": "SAR",
+      "symbol": "ر.س"
+    },
+    {
+      "name": "United Arab Emirates Dirham",
+      "code": "AED",
+      "symbol": "د.إ"
+    },
+    {
+      "name": "Qatari Riyal",
+      "code": "QAR",
+      "symbol": "ر.ق"
+    },
+    {
+      "name": "Kuwaiti Dinar",
+      "code": "KWD",
+      "symbol": "د.ك"
+    },
+    {
+      "name": "Omani Rial",
+      "code": "OMR",
+      "symbol": "ر.ع."
+    },
+    {
+      "name": "Egyptian Pound",
+      "code": "EGP",
+      "symbol": "ج.م"
+    }
+  ]
+  
